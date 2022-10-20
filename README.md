@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-emanuel-passos-barros-5a6a4a21a/">
+  <a href="https://www.linkedin.com/in/alexandre-braule-0516419/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/alexandrebraule/">
