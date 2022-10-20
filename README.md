@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=emanuel-passos&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=abraule&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align="center">
