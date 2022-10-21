@@ -31,7 +31,8 @@ You can click the Preview link to take a look at your changes.
   Hi, I'm Alexandre Braule
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/> -->
 </h3>
-<p align="center">Graduado em Analise de Sistemas pela Faculdades Integradas Anglo-Americano e Especialista em redes pela UEMA</p>
+<p align="center">Graduado em Analise de Sistemas pela Faculdades Integradas Anglo-Americano e Especialista em redes LAN e WAN pela Universidade Estadual do Maranhão (UEMA)</p>
+<p align="center">Graduated in Systems Analysis from Faculdades Integradas Anglo-Americano and Specialist in LAN and WAN networks from Universidade Estadual do Maranhão (UEMA)</p>
 <hr/>
 <p align="center">
 <b>
