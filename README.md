@@ -37,11 +37,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Graduado em Analise de Sistemas pela Faculdades Integradas Anglo-Americano e Especialista em redes LAN e WAN pela Universidade Estadual do Maranhão (UEMA)</p>
 <p align="center">Graduated in Systems Analysis from Faculdades Integradas Anglo-Americano and Specialist in LAN and WAN networks from Universidade Estadual do Maranhão (UEMA)</p>
 
-<div id="header" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
-  <p align="center">alexandre.braule@gmail.com</p>
+  <b>
+  🛠️: alexandre.braule@gmail.com :
+  <b>
   <a scr="alexandre.braule@gmail.com" href="mailto:alexandre.braule@gmail.com?subject=subject text"> </a>
-</div>  
+</p>  
 
 <hr/>
 <p align="center">
