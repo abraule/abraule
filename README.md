@@ -39,9 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
+  <p align="center">alexandre.braule@gmail.com</p>
+  <a href="mailto:alexandre.braule@gmail.com?subject=subject text" </a>
 </div>  
-<p align="center">alexandre.braule@gmail.com</p>
-<a href="mailto:alexandre.braule@gmail.com?subject=subject text" </a>
 
 <hr/>
 <p align="center">
