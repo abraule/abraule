@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
 </div>  
+<p align="center">alexandre.braule@gmail.com</p>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" </a>
 
 <hr/>
