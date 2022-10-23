@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
   <b>
-  🛠️: alexandre.braule@gmail.com :
-  <b>
+  alexandre.braule@gmail.com :
+  </b>
   <a scr="alexandre.braule@gmail.com" href="mailto:alexandre.braule@gmail.com?subject=subject text"> </a>
 </p>  
 
