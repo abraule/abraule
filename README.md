@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
   <p "align="center">
-       <a href="mailto:alexandre.braule@gmail.com?subject="link html"> <b>alexandre.braule@gmail.com</b> </a>
+       <a href="alexandre.braule@gmail.com"> <b>alexandre.braule@gmail.com</b> </a>
   </p>     
 </div>  
 
