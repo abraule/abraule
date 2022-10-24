@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcSNVseHOTJbq/giphy.gif" width="100"/>
   <p "align="center">
-       <a href="[https://mail.google.com/mail/u/0/#inbox?compose=new](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMGRKDdMrfZqPVqKKchwNCtCTvNgMhrZBjDbgXLqMNDBpBllHKKDTqmLDzLRfhgVgdkZDs)"> <b>alexandre.braule@gmail.com</b> </a>
+       <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMGRKDdMrfZqPVqKKchwNCtCTvNgMhrZBjDbgXLqMNDBpBllHKKDTqmLDzLRfhgVgdkZDs"> <b>alexandre.braule@gmail.com</b> </a>
   </p>     
 </div>  
 
